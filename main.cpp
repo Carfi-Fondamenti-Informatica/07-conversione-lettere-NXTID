@@ -6,7 +6,7 @@ int main(){
     char a=0;
 
     cin>>a;
-    if(conversione (a)==true)
+    if(conversione(a)==true)
         cout<<a;
     else
         cout<<"errore";
